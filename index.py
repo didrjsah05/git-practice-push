@@ -2,7 +2,7 @@ import random
 
 def game():
     """
-    숫자 맞히기 게임
+    숫자 맞히기
     """
     answer = random.randint(1, 10)
 
